@@ -1,3 +1,3 @@
-time=50
+time=200
 
 database=db_main_change2
