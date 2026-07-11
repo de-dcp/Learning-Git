@@ -1,4 +1,6 @@
 Hi, This is the first file to be used for learning git.
 
-Adding a line to test fetch.
 
+Editing this file to test tracked untracked and modified file.
+
+adding another line to check rebase.
