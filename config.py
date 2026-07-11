@@ -4,7 +4,7 @@ database=db_main_change2
 
 def learnMerge():
         """This function is to test how to handle merge conflict"""
-        mergeTime = 90
-        dbname = "merge db name"
-        message = "this is merge branch config"
+        mergeTime = 60
+        dbname = "main db name 2"
+        message = "this is modified main config"
 
