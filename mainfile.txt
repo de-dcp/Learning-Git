@@ -1,4 +1,4 @@
 Hi, This is the first file to be used for learning git.
 
-Adding a line to test fetch.:wq
+Adding a line to test fetch.
 
